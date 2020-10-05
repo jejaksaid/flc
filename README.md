@@ -1,5 +1,7 @@
 # flc
 
+#site announcements 
+Selamat datang di Fast Learning Center! Silahkan melakukan konfirmasi pembayaran untuk memulai belajar di fastlearningcenter.com dengan cara mengirimkan bukti pembayaran ke alamat email kami info@fastlearningcenter.com
 #  homepage fastlearningcenter.com
 site admin > appearance > themes
 
