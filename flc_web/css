@@ -1,0 +1,3 @@
+.course-nav-tab-instructor {
+	display: none;
+}
